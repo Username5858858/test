@@ -19815,15 +19815,15 @@
 }
 
 #header1 .partner-statistic .ui-datepicker-trigger.is--pdf i.itl-icon-pdf, #header1 .partner-statistic .ui-datepicker-trigger.is--png i.itl-icon-pdf, #header1 .partner-statistic .ui-datepicker-trigger.is--xml i.itl-icon-pdf {
-	background-image: url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/icon-pdf.svg);
+	background-image: url(https://www.lizenzero.de/themes/Frontend/_public/src/img/icon-pdf.svg);
 }
 
 #header1 .partner-statistic .ui-datepicker-trigger.is--pdf i.itl-icon-png, #header1 .partner-statistic .ui-datepicker-trigger.is--png i.itl-icon-png, #header1 .partner-statistic .ui-datepicker-trigger.is--xml i.itl-icon-png {
-	background-image: url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/icon-png.svg);
+	background-image: url(https://www.lizenzero.de/themes/Frontend/_public/src/img/icon-png.svg);
 }
 
 #header1 .partner-statistic .ui-datepicker-trigger.is--pdf i.itl-icon-xml, #header1 .partner-statistic .ui-datepicker-trigger.is--png i.itl-icon-xml, #header1 .partner-statistic .ui-datepicker-trigger.is--xml i.itl-icon-xml {
-	background-image: url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/icon-xml.svg);
+	background-image: url(https://www.lizenzero.de/themes/Frontend/_public/src/img/icon-xml.svg);
 }
 
 #header1 .partner-statistic .ui-datepicker-trigger.is--pdf:hover, #header1 .partner-statistic .ui-datepicker-trigger.is--png:hover, #header1 .partner-statistic .ui-datepicker-trigger.is--xml:hover {
@@ -23177,7 +23177,7 @@
 }
 
 #header1 .floating-button i.itl-icon-calculator {
-	background-image: url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/itl-icon-calculator-white.svg);
+	background-image: url(https://www.lizenzero.de/themes/Frontend/_public/src/img/itl-icon-calculator-white.svg);
 }
 
 #header1 .is--ctl-detail .floating-button {
@@ -23547,8 +23547,8 @@
 		font-style: normal;
 		font-weight: 400;
 		font-display: optional;
-		src: url(../../themes/Frontend/Lizenzero/frontend/_public/src/fonts/libre-franklin-v2-latin-regular.eot);
-		src: local("Libre Franklin"), local("LibreFranklin-Regular"), url(../../themes/Frontend/Lizenzero/frontend/_public/src/fonts/libre-franklin-v2-latin-regular.woff2) format("woff2"), url(../../themes/Frontend/Lizenzero/frontend/_public/src/fonts/libre-franklin-v2-latin-regular.woff) format("woff"), url(../../themes/Frontend/Lizenzero/frontend/_public/src/fonts/libre-franklin-v2-latin-regular.ttf) format("truetype"), url(../../themes/Frontend/Lizenzero/frontend/_public/src/fonts/libre-franklin-v2-latin-regular.svg#LibreFranklin) format("svg");
+		src: url(https://www.lizenzero.de/themes/Frontend/_public/src/fonts/libre-franklin-v2-latin-regular.eot);
+		src: local("Libre Franklin"), local("LibreFranklin-Regular"), url(https://www.lizenzero.de/themes/Frontend/_public/src/fonts/libre-franklin-v2-latin-regular.woff2) format("woff2"), url(https://www.lizenzero.de/themes/Frontend/_public/src/fonts/libre-franklin-v2-latin-regular.woff) format("woff"), url(https://www.lizenzero.de/themes/Frontend/_public/src/fonts/libre-franklin-v2-latin-regular.ttf) format("truetype"), url(https://www.lizenzero.de/themes/Frontend/_public/src/fonts/libre-franklin-v2-latin-regular.svg#LibreFranklin) format("svg");
 	}
 }
 
@@ -23558,8 +23558,8 @@
 		font-style: normal;
 		font-weight: 700;
 		font-display: optional;
-		src: url(../../themes/Frontend/Lizenzero/frontend/_public/src/fonts/libre-franklin-v2-latin-700.eot);
-		src: local("Libre Franklin Bold"), local("LibreFranklin-Bold"), url(../../themes/Frontend/Lizenzero/frontend/_public/src/fonts/libre-franklin-v2-latin-700.woff2) format("woff2"), url(../../themes/Frontend/Lizenzero/frontend/_public/src/fonts/libre-franklin-v2-latin-700.woff) format("woff"), url(../../themes/Frontend/Lizenzero/frontend/_public/src/fonts/libre-franklin-v2-latin-700.ttf) format("truetype"), url(../../themes/Frontend/Lizenzero/frontend/_public/src/fonts/libre-franklin-v2-latin-700.svg#LibreFranklin) format("svg");
+		src: url(https://www.lizenzero.de/themes/Frontend/_public/src/fonts/libre-franklin-v2-latin-700.eot);
+		src: local("Libre Franklin Bold"), local("LibreFranklin-Bold"), url(https://www.lizenzero.de/themes/Frontend/_public/src/fonts/libre-franklin-v2-latin-700.woff2) format("woff2"), url(https://www.lizenzero.de/themes/Frontend/_public/src/fonts/libre-franklin-v2-latin-700.woff) format("woff"), url(https://www.lizenzero.de/themes/Frontend/_public/src/fonts/libre-franklin-v2-latin-700.ttf) format("truetype"), url(https://www.lizenzero.de/themes/Frontend/_public/src/fonts/libre-franklin-v2-latin-700.svg#LibreFranklin) format("svg");
 	}
 }
 
@@ -24517,11 +24517,11 @@
 }
 
 #header1 section[class*=section-].section-white.visible:after {
-	background: url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/section-white.webp) center top no-repeat;
+	background: url(https://www.lizenzero.de/themes/Frontend/_public/src/img/section-white.webp) center top no-repeat;
 }
 
 #header1 .noWEBP section[class*=section-].section-white.visible:after {
-	background: url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/section-white.png) center top no-repeat;
+	background: url(https://www.lizenzero.de/themes/Frontend/_public/src/img/section-white.png) center top no-repeat;
 }
 
 #header1 section[class*=section-].section-light-grey-paper {
@@ -24534,11 +24534,11 @@
 }
 
 #header1 section[class*=section-].section-light-grey-paper.visible:after {
-	background: url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/section-light-grey-paper.webp) center top no-repeat;
+	background: url(https://www.lizenzero.de/themes/Frontend/_public/src/img/section-light-grey-paper.webp) center top no-repeat;
 }
 
 #header1 .noWEBP section[class*=section-].section-light-grey-paper.visible:after {
-	background: url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/section-light-grey-paper.png) center top no-repeat;
+	background: url(https://www.lizenzero.de/themes/Frontend/_public/src/img/section-light-grey-paper.png) center top no-repeat;
 }
 
 #header1 section[class*=section-].section-ci-blue {
@@ -24551,11 +24551,11 @@
 }
 
 #header1 section[class*=section-].section-ci-blue.visible:after {
-	background: url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/section-ci-blue.webp) center top no-repeat;
+	background: url(https://www.lizenzero.de/themes/Frontend/_public/src/img/section-ci-blue.webp) center top no-repeat;
 }
 
 #header1 .noWEBP section[class*=section-].section-ci-blue.visible:after {
-	background: url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/section-ci-blue.png) center top no-repeat;
+	background: url(https://www.lizenzero.de/themes/Frontend/_public/src/img/section-ci-blue.png) center top no-repeat;
 }
 
 #header1 section[class*=section-].section-ci-blue h1, #header1 section[class*=section-].section-ci-blue h2, #header1 section[class*=section-].section-ci-blue h3, #header1 section[class*=section-].section-ci-blue p, #header1 section[class*=section-].section-ci-blue a {
@@ -24576,19 +24576,19 @@
 }
 
 #header1 section[class*=section-].section-light-grey-pattern.visible {
-	background: #f3f3f3 url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/section-light-grey-pattern-bg.webp) center top repeat;
+	background: #f3f3f3 url(https://www.lizenzero.de/themes/Frontend/_public/src/img/section-light-grey-pattern-bg.webp) center top repeat;
 }
 
 #header1 .noWEBP section[class*=section-].section-light-grey-pattern.visible {
-	background: #f3f3f3 url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/section-light-grey-pattern-bg.png) center top repeat;
+	background: #f3f3f3 url(https://www.lizenzero.de/themes/Frontend/_public/src/img/section-light-grey-pattern-bg.png) center top repeat;
 }
 
 #header1 section[class*=section-].section-light-grey-pattern.visible:after {
-	background: url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/section-light-grey-pattern.webp) center bottom no-repeat;
+	background: url(https://www.lizenzero.de/themes/Frontend/_public/src/img/section-light-grey-pattern.webp) center bottom no-repeat;
 }
 
 #header1 .noWEBP section[class*=section-].section-light-grey-pattern.visible:after {
-	background: url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/section-light-grey-pattern.png) center bottom no-repeat;
+	background: url(https://www.lizenzero.de/themes/Frontend/_public/src/img/section-light-grey-pattern.png) center bottom no-repeat;
 }
 
 #header1 section[class*=section-].section-light-blue-pattern {
@@ -24600,19 +24600,19 @@
 }
 
 #header1 section[class*=section-].section-light-blue-pattern.visible {
-	background: #c6e2f3 url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/section-light-blue-pattern-bg.webp) center top repeat;
+	background: #c6e2f3 url(https://www.lizenzero.de/themes/Frontend/_public/src/img/section-light-blue-pattern-bg.webp) center top repeat;
 }
 
 #header1 .noWEBP section[class*=section-].section-light-blue-pattern.visible {
-	background: #c6e2f3 url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/section-light-blue-pattern-bg.png) center top repeat;
+	background: #c6e2f3 url(https://www.lizenzero.de/themes/Frontend/_public/src/img/section-light-blue-pattern-bg.png) center top repeat;
 }
 
 #header1 section[class*=section-].section-light-blue-pattern.visible:after {
-	background: url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/section-light-blue-pattern.webp) center bottom no-repeat;
+	background: url(https://www.lizenzero.de/themes/Frontend/_public/src/img/section-light-blue-pattern.webp) center bottom no-repeat;
 }
 
 #header1 .noWEBP section[class*=section-].section-light-blue-pattern.visible:after {
-	background: url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/section-light-blue-pattern.png) center bottom no-repeat;
+	background: url(https://www.lizenzero.de/themes/Frontend/_public/src/img/section-light-blue-pattern.png) center bottom no-repeat;
 }
 
 #header1 section[class*=section-].section-light-blue {
@@ -24624,19 +24624,19 @@
 }
 
 #header1 section[class*=section-].section-light-blue.visible {
-	background: #fff url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/section-light-blue-bg.webp) center top no-repeat;
+	background: #fff url(https://www.lizenzero.de/themes/Frontend/_public/src/img/section-light-blue-bg.webp) center top no-repeat;
 }
 
 #header1 .noWEBP section[class*=section-].section-light-blue.visible {
-	background: #fff url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/section-light-blue-bg.png) center top no-repeat;
+	background: #fff url(https://www.lizenzero.de/themes/Frontend/_public/src/img/section-light-blue-bg.png) center top no-repeat;
 }
 
 #header1 section[class*=section-].section-light-blue.visible:after {
-	background: url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/section-white.webp) center top no-repeat;
+	background: url(https://www.lizenzero.de/themes/Frontend/_public/src/img/section-white.webp) center top no-repeat;
 }
 
 #header1 .noWEBP section[class*=section-].section-light-blue.visible:after {
-	background: url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/section-white.png) center top no-repeat;
+	background: url(https://www.lizenzero.de/themes/Frontend/_public/src/img/section-white.png) center top no-repeat;
 }
 
 #header1 section[class*=section-].section-light-blue-paper {
@@ -24648,19 +24648,19 @@
 }
 
 #header1 section[class*=section-].section-light-blue-paper.visible {
-	background: #fff url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/section-light-blue-bg.webp) center top no-repeat;
+	background: #fff url(https://www.lizenzero.de/themes/Frontend/_public/src/img/section-light-blue-bg.webp) center top no-repeat;
 }
 
 #header1 .noWEBP section[class*=section-].section-light-blue-paper.visible {
-	background: #fff url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/section-light-blue-bg.png) center top no-repeat;
+	background: #fff url(https://www.lizenzero.de/themes/Frontend/_public/src/img/section-light-blue-bg.png) center top no-repeat;
 }
 
 #header1 section[class*=section-].section-light-blue-paper.visible:after {
-	background: url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/section-light-blue-paper.webp) center top no-repeat;
+	background: url(https://www.lizenzero.de/themes/Frontend/_public/src/img/section-light-blue-paper.webp) center top no-repeat;
 }
 
 #header1 .noWEBP section[class*=section-].section-light-blue-paper.visible:after {
-	background: url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/section-light-blue-paper.png) center top no-repeat;
+	background: url(https://www.lizenzero.de/themes/Frontend/_public/src/img/section-light-blue-paper.png) center top no-repeat;
 }
 
 #header1 .site-main > section[class*=section-]:first-child, #header1 .emotion--wrapper:first-child section[class*=section-] {
@@ -24757,11 +24757,11 @@
 }
 
 #header1 footer.site-footer.visible {
-	background: #464646 url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/footer-bg.webp) center top no-repeat;
+	background: #464646 url(https://www.lizenzero.de/themes/Frontend/_public/src/img/footer-bg.webp) center top no-repeat;
 }
 
 #header1 .noWEBP footer.site-footer.visible {
-	background: #464646 url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/footer-bg.jpg) center top no-repeat;
+	background: #464646 url(https://www.lizenzero.de/themes/Frontend/_public/src/img/footer-bg.jpg) center top no-repeat;
 }
 
 #header1 footer.site-footer a {
@@ -25093,7 +25093,7 @@
 
 #header1 .header-slider .slick-prev {
 	left: 50px;
-	background: transparent url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/arrow-left.svg) no-repeat;
+	background: transparent url(https://www.lizenzero.de/themes/Frontend/_public/src/img/arrow-left.svg) no-repeat;
 	background-size: contain;
 }
 
@@ -25103,7 +25103,7 @@
 
 #header1 .header-slider .slick-next {
 	right: 50px;
-	background: transparent url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/arrow-right.svg) no-repeat;
+	background: transparent url(https://www.lizenzero.de/themes/Frontend/_public/src/img/arrow-right.svg) no-repeat;
 	background-size: contain;
 }
 
@@ -25307,7 +25307,7 @@
 		height: 560px;
 		padding: 0 50px;
 		background-size: contain;
-		background-image: url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/bg-info-box.svg);
+		background-image: url(https://www.lizenzero.de/themes/Frontend/_public/src/img/bg-info-box.svg);
 		background-position: center center;
 		background-repeat: no-repeat;
 		width: 560px;
@@ -25629,7 +25629,7 @@
 	#header1 .steps-info-box-circle {
 		height: 1200px;
 		background-size: contain;
-		background-image: url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/bg-info-box.svg);
+		background-image: url(https://www.lizenzero.de/themes/Frontend/_public/src/img/bg-info-box.svg);
 		background-position: center center;
 		background-repeat: no-repeat;
 		position: absolute;
@@ -25808,7 +25808,7 @@
 }
 
 #header1 .nav-list a.btn:hover i.itl-icon-login {
-	background-image: url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/itl-icon-login-white.svg);
+	background-image: url(https://www.lizenzero.de/themes/Frontend/_public/src/img/itl-icon-login-white.svg);
 }
 
 #header1 .nav-list i {
@@ -25821,15 +25821,15 @@
 }
 
 #header1 .nav-list i.itl-icon-login {
-	background-image: url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/itl-icon-login.svg);
+	background-image: url(https://www.lizenzero.de/themes/Frontend/_public/src/img/itl-icon-login.svg);
 }
 
 #header1 .nav-list i.itl-icon-globe {
-	background-image: url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/itl-icon-globe.svg);
+	background-image: url(https://www.lizenzero.de/themes/Frontend/_public/src/img/itl-icon-globe.svg);
 }
 
 #header1 .nav-list i.itl-icon-calculator {
-	background-image: url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/itl-icon-calculator.svg);
+	background-image: url(https://www.lizenzero.de/themes/Frontend/_public/src/img/itl-icon-calculator.svg);
 }
 
 #header1 .nav-list i.itl-icon-home {
@@ -25837,7 +25837,7 @@
 	margin-bottom: -4px;
 	width: 20px;
 	height: 20px;
-	background-image: url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/itl-icon-home.svg);
+	background-image: url(https://www.lizenzero.de/themes/Frontend/_public/src/img/itl-icon-home.svg);
 }
 
 @media screen and (min-width: 64em) {
@@ -26152,15 +26152,15 @@
 }
 
 #header1 .btn.is--pdf i.itl-icon-pdf, #header1 .btn.is--png i.itl-icon-pdf, #header1 .btn.is--xml i.itl-icon-pdf {
-	background-image: url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/icon-pdf.svg);
+	background-image: url(https://www.lizenzero.de/themes/Frontend/_public/src/img/icon-pdf.svg);
 }
 
 #header1 .btn.is--pdf i.itl-icon-png, #header1 .btn.is--png i.itl-icon-png, #header1 .btn.is--xml i.itl-icon-png {
-	background-image: url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/icon-png.svg);
+	background-image: url(https://www.lizenzero.de/themes/Frontend/_public/src/img/icon-png.svg);
 }
 
 #header1 .btn.is--pdf i.itl-icon-xml, #header1 .btn.is--png i.itl-icon-xml, #header1 .btn.is--xml i.itl-icon-xml {
-	background-image: url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/icon-xml.svg);
+	background-image: url(https://www.lizenzero.de/themes/Frontend/_public/src/img/icon-xml.svg);
 }
 
 #header1 .btn.is--pdf:hover, #header1 .btn.is--png:hover, #header1 .btn.is--xml:hover {
@@ -26539,7 +26539,7 @@
 	margin: 0 auto 15px;
 	width: 32px;
 	height: 32px;
-	background: url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/icon-quote.svg) no-repeat center center;
+	background: url(https://www.lizenzero.de/themes/Frontend/_public/src/img/icon-quote.svg) no-repeat center center;
 	background-size: contain;
 }
 
@@ -26609,7 +26609,7 @@
 
 #header1 .reference-slider .slick-prev {
 	left: 0;
-	background: transparent url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/arrow-left.svg) no-repeat;
+	background: transparent url(https://www.lizenzero.de/themes/Frontend/_public/src/img/arrow-left.svg) no-repeat;
 	background-size: contain;
 }
 
@@ -26619,7 +26619,7 @@
 
 #header1 .reference-slider .slick-next {
 	right: 0;
-	background: transparent url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/arrow-right.svg) no-repeat;
+	background: transparent url(https://www.lizenzero.de/themes/Frontend/_public/src/img/arrow-right.svg) no-repeat;
 	background-size: contain;
 }
 
@@ -26811,7 +26811,7 @@
 
 #header1 .packaging-slider .slick-prev {
 	left: 15px;
-	background: transparent url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/arrow-left.svg) no-repeat;
+	background: transparent url(https://www.lizenzero.de/themes/Frontend/_public/src/img/arrow-left.svg) no-repeat;
 	background-size: contain;
 }
 
@@ -26821,7 +26821,7 @@
 
 #header1 .packaging-slider .slick-next {
 	right: 15px;
-	background: transparent url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/arrow-right.svg) no-repeat;
+	background: transparent url(https://www.lizenzero.de/themes/Frontend/_public/src/img/arrow-right.svg) no-repeat;
 	background-size: contain;
 }
 
@@ -27177,7 +27177,7 @@
 
 #header1 .image-slider--container .arrow.is--left {
 	left: 15px;
-	background: transparent url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/arrow-left.svg) no-repeat;
+	background: transparent url(https://www.lizenzero.de/themes/Frontend/_public/src/img/arrow-left.svg) no-repeat;
 	background-size: contain;
 }
 
@@ -27187,7 +27187,7 @@
 
 #header1 .image-slider--container .arrow.is--right {
 	right: 15px;
-	background: transparent url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/arrow-right.svg) no-repeat;
+	background: transparent url(https://www.lizenzero.de/themes/Frontend/_public/src/img/arrow-right.svg) no-repeat;
 	background-size: contain;
 }
 
@@ -27500,7 +27500,7 @@
 	#header1 .dig-pub--layer.center::after {
 		height: 1200px;
 		background-size: contain;
-		background-image: url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/bg-info-box.svg);
+		background-image: url(https://www.lizenzero.de/themes/Frontend/_public/src/img/bg-info-box.svg);
 		background-position: center center;
 		background-repeat: no-repeat;
 		position: absolute;
@@ -27846,7 +27846,7 @@
 		height: 480px;
 		padding: 0 50px;
 		background-size: contain;
-		background-image: url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/bg-info-box.svg);
+		background-image: url(https://www.lizenzero.de/themes/Frontend/_public/src/img/bg-info-box.svg);
 		background-position: center center;
 		background-repeat: no-repeat;
 		width: 480px;
@@ -28101,7 +28101,7 @@
 	transform: translateY(-50%);
 	width: 32px;
 	height: 32px;
-	background: url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/icon-error.svg) no-repeat center center;
+	background: url(https://www.lizenzero.de/themes/Frontend/_public/src/img/icon-error.svg) no-repeat center center;
 	background-size: contain;
 }
 
@@ -28284,7 +28284,7 @@
 	transform: translateY(-50%);
 	width: 15px;
 	height: 15px;
-	background: url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/arrow-faq.svg) no-repeat center center;
+	background: url(https://www.lizenzero.de/themes/Frontend/_public/src/img/arrow-faq.svg) no-repeat center center;
 	background-size: contain;
 }
 
@@ -28485,12 +28485,12 @@
 	display: inline-block;
 	width: 16px;
 	height: 16px;
-	background: url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/icon-search.svg) no-repeat center center;
+	background: url(https://www.lizenzero.de/themes/Frontend/_public/src/img/icon-search.svg) no-repeat center center;
 	background-size: contain;
 }
 
 #header1 .searchform .btn:hover .icon-search {
-	background-image: url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/icon-search-white.svg);
+	background-image: url(https://www.lizenzero.de/themes/Frontend/_public/src/img/icon-search-white.svg);
 }
 
 #header1 .searchform.searchform-big input {
@@ -28549,7 +28549,7 @@
 
 #header1 .customer-slider .slick-prev {
 	left: 0;
-	background: transparent url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/arrow-left.svg) no-repeat;
+	background: transparent url(https://www.lizenzero.de/themes/Frontend/_public/src/img/arrow-left.svg) no-repeat;
 	background-size: contain;
 }
 
@@ -28559,7 +28559,7 @@
 
 #header1 .customer-slider .slick-next {
 	right: 0;
-	background: transparent url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/arrow-right.svg) no-repeat;
+	background: transparent url(https://www.lizenzero.de/themes/Frontend/_public/src/img/arrow-right.svg) no-repeat;
 	background-size: contain;
 }
 
@@ -28763,15 +28763,15 @@
 }
 
 #header1 .calculator .r-tabs .r-tabs-tab a .ellipse i.icon-paper {
-	background-image: url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/configurator/icon-paper.svg);
+	background-image: url(https://www.lizenzero.de/themes/Frontend/_public/src/img/configurator/icon-paper.svg);
 }
 
 #header1 .calculator .r-tabs .r-tabs-tab a .ellipse i.icon-plastic {
-	background-image: url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/configurator/icon-plastic.svg);
+	background-image: url(https://www.lizenzero.de/themes/Frontend/_public/src/img/configurator/icon-plastic.svg);
 }
 
 #header1 .calculator .r-tabs .r-tabs-tab a .ellipse i.icon-glass {
-	background-image: url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/configurator/icon-glass.svg);
+	background-image: url(https://www.lizenzero.de/themes/Frontend/_public/src/img/configurator/icon-glass.svg);
 }
 
 #header1 .calculator .r-tabs .r-tabs-tab a .ellipse img {
@@ -28875,7 +28875,7 @@
 #header1 .calculator .secondary-tab .tabs .tab-link a i {
 	width: 18px;
 	height: 21px;
-	background: url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/configurator/icon-carton.svg) no-repeat center center;
+	background: url(https://www.lizenzero.de/themes/Frontend/_public/src/img/configurator/icon-carton.svg) no-repeat center center;
 	background-size: contain;
 	display: block;
 	margin-right: 15px;
@@ -28901,7 +28901,7 @@
 }
 
 #header1 .calculator .secondary-tab .tabs .tab-link.current a i {
-	background-image: url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/configurator/icon-carton-active.svg);
+	background-image: url(https://www.lizenzero.de/themes/Frontend/_public/src/img/configurator/icon-carton-active.svg);
 }
 
 #header1 .calculator .secondary-tab .tabs .tab-link.current a span {
@@ -28959,11 +28959,11 @@
 	width: 20px;
 	height: 20px;
 	cursor: pointer;
-	background-image: url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/configurator/icon-info-active-blue.png);
+	background-image: url(https://www.lizenzero.de/themes/Frontend/_public/src/img/configurator/icon-info-active-blue.png);
 }
 
 #header1 .calculator .secondary-tab .calc-item .calc-left i.active {
-	background-image: url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/configurator/icon-info-blue.svg);
+	background-image: url(https://www.lizenzero.de/themes/Frontend/_public/src/img/configurator/icon-info-blue.svg);
 }
 
 #header1 .calculator .secondary-tab .calc-item .calc-left p {
@@ -29030,7 +29030,7 @@
 	flex-direction: row;
 	flex-wrap: nowrap;
 	border: 1px solid #bad372;
-	background: #fff url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/configurator/background-arrow.png) no-repeat left -1px;
+	background: #fff url(https://www.lizenzero.de/themes/Frontend/_public/src/img/configurator/background-arrow.png) no-repeat left -1px;
 	height: 59px;
 	box-sizing: border-box;
 	border-top-right-radius: 3px;
@@ -29088,14 +29088,14 @@
 	width: 40px;
 	height: 40px;
 	flex: 0 0 40px;
-	background: url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/configurator/icon-info-round.svg) no-repeat center center;
+	background: url(https://www.lizenzero.de/themes/Frontend/_public/src/img/configurator/icon-info-round.svg) no-repeat center center;
 	display: inline-block;
 	margin-right: 0;
 	cursor: pointer;
 }
 
 #header1 .calculator .secondary-tab .green-list li.first a i.active {
-	background-image: url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/configurator/icon-info-active.png);
+	background-image: url(https://www.lizenzero.de/themes/Frontend/_public/src/img/configurator/icon-info-active.png);
 }
 
 #header1 .calculator .secondary-tab .green-list li.middle {
@@ -29124,7 +29124,7 @@
 #header1 .calculator .secondary-tab .green-list li.last a i {
 	width: 20px;
 	height: 20px;
-	background: url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/configurator/icon-forma.svg) no-repeat center center;
+	background: url(https://www.lizenzero.de/themes/Frontend/_public/src/img/configurator/icon-forma.svg) no-repeat center center;
 	background-size: contain;
 	display: inline-block;
 	margin-left: 2px;
@@ -29132,20 +29132,20 @@
 }
 
 #header1 .calculator #tab-2 .secondary-tab .tabs .tab-link a i {
-	background-image: url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/configurator/icon-plastic-grey.svg);
+	background-image: url(https://www.lizenzero.de/themes/Frontend/_public/src/img/configurator/icon-plastic-grey.svg);
 }
 
 #header1 .calculator #tab-2 .secondary-tab .tabs .tab-link.current a i {
-	background-image: url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/configurator/icon-plastic-babyblue.svg);
+	background-image: url(https://www.lizenzero.de/themes/Frontend/_public/src/img/configurator/icon-plastic-babyblue.svg);
 }
 
 #header1 .calculator #tab-3 .secondary-tab .tabs .tab-link a i {
-	background-image: url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/configurator/icon-glass-grey.svg);
+	background-image: url(https://www.lizenzero.de/themes/Frontend/_public/src/img/configurator/icon-glass-grey.svg);
 	height: 22px;
 }
 
 #header1 .calculator #tab-3 .secondary-tab .tabs .tab-link.current a i {
-	background-image: url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/configurator/icon-glass-babyblue.svg);
+	background-image: url(https://www.lizenzero.de/themes/Frontend/_public/src/img/configurator/icon-glass-babyblue.svg);
 }
 
 @media screen and (max-width: 767px) {
@@ -29210,7 +29210,7 @@
 		content: "";
 		width: 17px;
 		height: 8px;
-		background: url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/configurator/icon-arrow-blue.svg) no-repeat;
+		background: url(https://www.lizenzero.de/themes/Frontend/_public/src/img/configurator/icon-arrow-blue.svg) no-repeat;
 		background-size: contain;
 		position: absolute;
 		top: calc(50% - 4px);
@@ -29237,17 +29237,17 @@
 	}
 
 	#header1 .calculator .r-tabs .r-tabs-accordion-title a .ellipse i.icon-paper {
-		background-image: url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/configurator/icon-paper.svg);
+		background-image: url(https://www.lizenzero.de/themes/Frontend/_public/src/img/configurator/icon-paper.svg);
 		background-size: 20px;
 	}
 
 	#header1 .calculator .r-tabs .r-tabs-accordion-title a .ellipse i.icon-plastic {
-		background-image: url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/configurator/icon-plastic.svg);
+		background-image: url(https://www.lizenzero.de/themes/Frontend/_public/src/img/configurator/icon-plastic.svg);
 		background-size: 9px;
 	}
 
 	#header1 .calculator .r-tabs .r-tabs-accordion-title a .ellipse i.icon-glass {
-		background-image: url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/configurator/icon-glass.svg);
+		background-image: url(https://www.lizenzero.de/themes/Frontend/_public/src/img/configurator/icon-glass.svg);
 		background-size: 7px;
 	}
 
@@ -29293,7 +29293,7 @@
 	}
 
 	#header1 .calculator .r-tabs .r-tabs-accordion-title.r-tabs-state-active a:before {
-		background-image: url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/configurator/icon-arrow.svg);
+		background-image: url(https://www.lizenzero.de/themes/Frontend/_public/src/img/configurator/icon-arrow.svg);
 	}
 
 	#header1 .calculator .r-tabs .r-tabs-accordion-title.r-tabs-state-active a:after {
@@ -30057,7 +30057,7 @@
 	right: 0;
 	width: 7px;
 	height: 15px;
-	background: url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/configurator/icon-arrow-rightSmall.png) no-repeat;
+	background: url(https://www.lizenzero.de/themes/Frontend/_public/src/img/configurator/icon-arrow-rightSmall.png) no-repeat;
 }
 
 #header1 .nav-col .nav-status i {
@@ -30358,39 +30358,39 @@
 }
 
 #header1 .calculator-mengen i.icon-glass {
-	background-image: url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/configurator/icon-glass-blue.svg);
+	background-image: url(https://www.lizenzero.de/themes/Frontend/_public/src/img/configurator/icon-glass-blue.svg);
 }
 
 #header1 .calculator-mengen i.icon-paper {
-	background-image: url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/configurator/icon-paper-blue.svg);
+	background-image: url(https://www.lizenzero.de/themes/Frontend/_public/src/img/configurator/icon-paper-blue.svg);
 }
 
 #header1 .calculator-mengen i.icon-weissblech {
-	background-image: url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/configurator/icon-weissblech-blue.svg);
+	background-image: url(https://www.lizenzero.de/themes/Frontend/_public/src/img/configurator/icon-weissblech-blue.svg);
 }
 
 #header1 .calculator-mengen i.icon-aluminnium {
-	background-image: url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/configurator/icon-aluminium-blue.svg);
+	background-image: url(https://www.lizenzero.de/themes/Frontend/_public/src/img/configurator/icon-aluminium-blue.svg);
 }
 
 #header1 .calculator-mengen i.icon-kunststoffe {
-	background-image: url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/configurator/icon-kunststoffe-blue.svg);
+	background-image: url(https://www.lizenzero.de/themes/Frontend/_public/src/img/configurator/icon-kunststoffe-blue.svg);
 }
 
 #header1 .calculator-mengen i.icon-karton {
-	background-image: url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/configurator/icon-karton-blue.svg);
+	background-image: url(https://www.lizenzero.de/themes/Frontend/_public/src/img/configurator/icon-karton-blue.svg);
 }
 
 #header1 .calculator-mengen i.icon-sonstige {
-	background-image: url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/configurator/icon-sonstige-blue.svg);
+	background-image: url(https://www.lizenzero.de/themes/Frontend/_public/src/img/configurator/icon-sonstige-blue.svg);
 }
 
 #header1 .calculator-mengen i.icon-natur {
-	background-image: url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/configurator/icon-natur-blue.svg);
+	background-image: url(https://www.lizenzero.de/themes/Frontend/_public/src/img/configurator/icon-natur-blue.svg);
 }
 
 #header1 .calculator-mengen i.icon-double-arrow {
-	background-image: url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/configurator/icon-double-arrow.svg);
+	background-image: url(https://www.lizenzero.de/themes/Frontend/_public/src/img/configurator/icon-double-arrow.svg);
 }
 
 #header1 .calculator-mengen .cm-header {
@@ -31034,7 +31034,7 @@
 	width: 7px;
 	height: 13px;
 	display: inline-block;
-	background: url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/configurator/icon-arrow-left-babyblue.svg) no-repeat;
+	background: url(https://www.lizenzero.de/themes/Frontend/_public/src/img/configurator/icon-arrow-left-babyblue.svg) no-repeat;
 	background-size: contain;
 	margin-right: 10px;
 }
@@ -31140,7 +31140,7 @@
 #header1 .calc-tooltip .tooltip-close, #header1 .tooltip-content .tooltip-close {
 	width: 24px;
 	height: 24px;
-	background: url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/configurator/icon-close.svg) no-repeat center center;
+	background: url(https://www.lizenzero.de/themes/Frontend/_public/src/img/configurator/icon-close.svg) no-repeat center center;
 	background-size: 24px;
 	cursor: pointer;
 	display: inline-block;
@@ -31188,11 +31188,11 @@
 	width: 20px;
 	height: 20px;
 	cursor: pointer;
-	background-image: url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/configurator/icon-info-active-blue.png);
+	background-image: url(https://www.lizenzero.de/themes/Frontend/_public/src/img/configurator/icon-info-active-blue.png);
 }
 
 #header1 i.tooltip.active {
-	background-image: url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/configurator/icon-info-blue.svg);
+	background-image: url(https://www.lizenzero.de/themes/Frontend/_public/src/img/configurator/icon-info-blue.svg);
 }
 
 @media screen and (max-width: 767px) {
@@ -32286,7 +32286,7 @@
 
 @media screen and (min-width: 48em) {
 	#header1 .alert--wrapper.alert--mascot-error::after {
-		background-image: url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/mascots/mascot-error.png);
+		background-image: url(https://www.lizenzero.de/themes/Frontend/_public/src/img/mascots/mascot-error.png);
 		height: 153px;
 		right: -159px;
 		width: 172px;
@@ -32302,7 +32302,7 @@
 
 @media screen and (min-width: 48em) {
 	#header1 .alert--wrapper.alert--mascot-warning::after {
-		background-image: url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/mascots/mascot-warning.png);
+		background-image: url(https://www.lizenzero.de/themes/Frontend/_public/src/img/mascots/mascot-warning.png);
 		bottom: -55px;
 		height: 143px;
 		width: 125px;
@@ -32426,13 +32426,13 @@
 }
 
 #header1 .yt-preview-toggle.visible::before {
-	background: transparent url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/yt-icon-dark.png) no-repeat;
+	background: transparent url(https://www.lizenzero.de/themes/Frontend/_public/src/img/yt-icon-dark.png) no-repeat;
 	background-size: contain;
 	opacity: .9;
 }
 
 #header1 .yt-preview-toggle.visible::after {
-	background: transparent url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/yt-icon-red.png) no-repeat;
+	background: transparent url(https://www.lizenzero.de/themes/Frontend/_public/src/img/yt-icon-red.png) no-repeat;
 	background-size: contain;
 	opacity: 0;
 	transition: opacity .25s ease;
@@ -32443,11 +32443,11 @@
 }
 
 #header1 .hasWEBP .yt-preview-toggle.visible::before {
-	background: transparent url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/yt-icon-dark.webp) no-repeat;
+	background: transparent url(https://www.lizenzero.de/themes/Frontend/_public/src/img/yt-icon-dark.webp) no-repeat;
 }
 
 #header1 .hasWEBP .yt-preview-toggle.visible::after {
-	background: transparent url(../../themes/Frontend/Lizenzero/frontend/_public/src/img/yt-icon-red.webp) no-repeat;
+	background: transparent url(https://www.lizenzero.de/themes/Frontend/_public/src/img/yt-icon-red.webp) no-repeat;
 }
 
 #header1 .slick-slider {
