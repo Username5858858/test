@@ -23737,7 +23737,7 @@
 	}
 }
 
-#header1 .header--is-stuck .site-main {
+.header--is-stuck .site-main {
 	padding-top: 0;
 }
 
@@ -24930,21 +24930,21 @@
 	transform: translate3d(0, 0, 0);
 }
 
-#header1 header.is-stuck {
+header.is-stuck {
 	position: fixed;
 }
 
-#header1 header.is-stuck.is-at-top {
+header.is-stuck.is-at-top {
 	top: 0;
 }
 
-#header1 header.is-anchored {
+header.is-anchored {
 	position: relative;
 	right: auto;
 	left: auto;
 }
 
-#header1 header .menu-button {
+header .menu-button {
 	cursor: pointer;
 	display: flex;
 	align-items: center;
@@ -24958,18 +24958,18 @@
 	border: none;
 }
 
-#header1 header .menu-button:active {
+header .menu-button:active {
 	outline: none;
 }
 
-#header1 header .burger-icon {
+header .burger-icon {
 	display: block;
 	width: 30px;
 	height: 10px;
 	position: relative;
 }
 
-#header1 header .burger-icon span {
+header .burger-icon span {
 	display: block;
 	position: absolute;
 	left: 0;
@@ -24980,54 +24980,54 @@
 	transition: top .25s,left .25s,width .25s,transform .25s linear;
 }
 
-#header1 header .burger-icon span:nth-child(1) {
+header .burger-icon span:nth-child(1) {
 	top: 0;
 }
 
 @media screen and (min-width: 64em) {
-	#header1 header .menu-button {
+	header .menu-button {
 		display: none;
 	}
 }
 
 @media screen and (min-width: 64em) {
-	#header1 header .burger-icon {
+	header .burger-icon {
 		width: 30px;
 		height: 20px;
 	}
 }
 
-#header1 body.menu-open header .burger-icon span:nth-child(1) {
+body.menu-open header .burger-icon span:nth-child(1) {
 	top: 4px;
 	transform: rotate(45deg);
 }
 
-#header1 header .burger-icon span:nth-child(2) {
+header .burger-icon span:nth-child(2) {
 	top: 4px;
 }
 
-#header1 body.menu-open header .burger-icon span:nth-child(2) {
+body.menu-open header .burger-icon span:nth-child(2) {
 	width: 0;
 	left: 50%;
 }
 
-#header1 header .burger-icon span:nth-child(3) {
+header .burger-icon span:nth-child(3) {
 	top: 8px;
 }
 
-#header1 body.menu-open header .burger-icon span:nth-child(3) {
+body.menu-open header .burger-icon span:nth-child(3) {
 	top: 4px;
 	transform: rotate(-45deg);
 }
 
-#header1 header .close-icon {
+header .close-icon {
 	display: block;
 	width: 30px;
 	height: 10px;
 	position: relative;
 }
 
-#header1 header .close-icon span {
+header .close-icon span {
 	display: block;
 	position: absolute;
 	left: 0;
@@ -25037,18 +25037,18 @@
 	background: #002652;
 }
 
-#header1 header .close-icon span:nth-child(1) {
+header .close-icon span:nth-child(1) {
 	top: 4px;
 	transform: rotate(45deg);
 }
 
-#header1 header .close-icon span:nth-child(2) {
+header .close-icon span:nth-child(2) {
 	top: 4px;
 	transform: rotate(-45deg);
 }
 
 @media screen and (min-width: 64em) {
-	#header1 header .close-icon {
+	header .close-icon {
 		width: 30px;
 		height: 20px;
 	}
