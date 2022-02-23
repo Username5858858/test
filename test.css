@@ -16132,33 +16132,10 @@
 	vertical-align: middle;
 }
 
-#header1 .account--change-payment .payment--method {
-	padding: 10px 0;
-	padding: .625rem 0;
-}
 
-#header1 .account--change-payment .payment--selection-input {
-	width: 40px;
-	width: 2.5rem;
-	float: left;
-	text-align: center;
-}
 
-#header1 .account--change-payment .payment--selection-label, #header1 .account--change-payment .payment--description {
-	padding: 0 0 0 40px;
-	padding: 0 0 0 2.5rem;
-	width: 100%;
-}
 
-#header1 .account--change-payment .payment--content {
-	padding: 0 0 0 40px;
-	padding: 0 0 0 2.5rem;
-	width: 100%;
-}
 
-#header1 .account--change-payment .payment--content input {
-	max-width: 100%;
-}
 
 @media screen and (min-width: 48em) {
 	#header1 .register--content {
@@ -16314,10 +16291,6 @@
 	padding: 1.25rem 1.25rem 0;
 }
 
-#header1 .is--act-shippingpayment .payment--method-list {
-	margin-top: 10px;
-	margin-top: .625rem;
-}
 
 #header1 .product--table {
 	margin-top: 10px;
@@ -17159,22 +17132,7 @@
 	width: 100%;
 }
 
-#header1 .content--confirm .payment--method-list, #header1 .content--confirm .dispatch--method-list {
-	margin-bottom: 10px;
-	margin-bottom: .625rem;
-}
 
-#header1 .content--confirm .payment--method, #header1 .content--confirm .dispatch--method {
-	padding-bottom: 10px;
-	padding-bottom: .625rem;
-	margin-bottom: 10px;
-	margin-bottom: .625rem;
-	border-bottom: 1px solid #dadae5;
-}
-
-#header1 .content--confirm .payment--method .method_last, #header1 .content--confirm .dispatch--method .method_last, #header1 .content--confirm .payment--method.method_last, #header1 .content--confirm .dispatch--method.method_last {
-	border: 0;
-}
 
 #header1 .content--confirm .method--input {
 	width: 40px;
@@ -17194,10 +17152,6 @@
 	padding-left: 2.5rem;
 }
 
-#header1 .content--confirm .payment--method-logo {
-	margin-left: 40px;
-	margin-left: 2.5rem;
-}
 
 #header1 .content--confirm .method--bankdata {
 	padding-left: 40px;
@@ -17378,11 +17332,6 @@
 		margin-top: 20px;
 		margin-top: 1.25rem;
 	}
-
-	#header1 .is--act-shippingpayment .payment--method-list {
-		margin-top: 0;
-	}
-
 	#header1 .is--act-shippingpayment .basket--footer .aggregation--list {
 		padding-right: 20px;
 		padding-right: 1.25rem;
@@ -17710,11 +17659,6 @@
 	#header1 .content--confirm .table--aggregation {
 		visibility: hidden;
 		display: block;
-	}
-
-	#header1 .content--confirm .confirm--inner-container .payment--method-list, #header1 .content--confirm .confirm--inner-container .dispatch--method-list {
-		margin-bottom: 20px;
-		margin-bottom: 1.25rem;
 	}
 
 	#header1 .content--confirm .confirm--inner-container .panel--body {
@@ -18193,12 +18137,6 @@
 #header1 .partner-statistic .panel--title {
 	padding-bottom: 20px;
 	padding-bottom: 1.25rem;
-}
-
-#header1 .account--content:after, #header1 .payment_logo_debit:after, #header1 .account-address--container:after, #header1 .account-info--container:after, #header1 .account--content:after, #header1 .payment_logo_debit:after, #header1 .account-address--container:after, #header1 .account-info--container:after {
-	content: "";
-	display: table;
-	clear: both;
 }
 
 #header1 .account--logout .logout--headline {
@@ -20372,15 +20310,6 @@
 	position: absolute;
 }
 
-#header1 .confirm--content .payment--panel .payment--method-info, #header1 .confirm--content .payment--panel .shipping--method-info {
-	margin-bottom: 10px;
-	margin-bottom: .625rem;
-}
-
-#header1 .confirm--content .payment--panel .payment--description, #header1 .confirm--content .payment--panel .shipping--description {
-	white-space: nowrap;
-}
-
 #header1 .confirm--content .information--panel-item:after, #header1 .confirm--content .information--panel-item .panel--body:after {
 	content: "";
 	display: table;
@@ -20685,16 +20614,6 @@
 
 	#header1 .confirm--content .product--table .aggregation--list {
 		padding-right: 10%;
-	}
-
-	#header1 .confirm--content .information--panel-wrapper .payment--panel .panel--actions {
-		position: relative;
-	}
-
-	#header1 .confirm--content .information--panel-wrapper .payment--panel .btn--change-payment {
-		bottom: 20px;
-		bottom: 1.25rem;
-		position: absolute;
 	}
 
 	#header1 .confirm--content .information--panel-wrapper .information--panel-item {
@@ -21860,27 +21779,6 @@
 	}
 }
 
-#header1 .payment--form-group {
-	margin: 10px 0;
-	margin: .625rem 0;
-}
-
-#header1 .payment--form-group .payment--field {
-	margin-bottom: 10px;
-	margin-bottom: .625rem;
-	display: block;
-	width: 100%;
-}
-
-#header1 .payment--form-group .register--required-info {
-	margin: 0;
-}
-
-@media screen and (min-width: 48em) {
-	#header1 .payment--form-group .payment--field {
-		width: 85%;
-	}
-}
 
 #header1 .address-manager--modal .header > .title {
 	padding-left: 2% px;
@@ -30813,17 +30711,6 @@
 	#header1 .product--detail-lizenzero_contract_configurator {
 		flex-direction: row;
 	}
-}
-
-#header1 .payment--form-group .none {
-	margin-top: 20px;
-	margin-top: 1.25rem;
-	margin-bottom: 0;
-}
-
-#header1 .payment--form-group .none label {
-	font-size: 14px;
-	font-size: .875rem;
 }
 
 #header1 .finish--table .column--quantity {
