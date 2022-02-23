@@ -23141,14 +23141,6 @@
 	-moz-osx-font-smoothing: grayscale;
 }
 
-#header1 img {
-	display: inline-block;
-	vertical-align: middle;
-	max-width: 100%;
-	height: auto;
-	-ms-interpolation-mode: bicubic;
-}
-
 #header1 textarea {
 	height: auto;
 	min-height: 50px;
