@@ -31954,3 +31954,72 @@
 #header1 .slick-arrow.slick-hidden {
 	display: none;
 }
+footer.site-footer {
+	background: #464646;
+	padding: 90px 0 40px;
+}
+
+footer.site-footer.visible {
+	background: #464646 url(https://www.lizenzero.de/themes/Frontend/Lizenzero/frontend/_public/src/img/footer-bg.webp) center top no-repeat;
+}
+
+footer.site-footer.visible {
+	background: #464646 url(https://www.lizenzero.de/themes/Frontend/Lizenzero/frontend/_public/src/img/footer-bg.jpg) center top no-repeat;
+}
+
+footer.site-footer a {
+	display: inline-block;
+	color: #fefefe;
+	text-decoration: none;
+}
+
+footer.site-footer a:hover {
+	color: #fefefe;
+	text-decoration: underline;
+}
+
+footer.site-footer p {
+	color: #fefefe;
+}
+
+footer.site-footer ul {
+	list-style: none;
+	margin: 0;
+}
+
+footer.site-footer .logo-container img {
+	max-width: 302px;
+}
+
+footer.site-footer .logo-container:after {
+	content: '';
+	display: block;
+	margin-top: 20px;
+	width: 200px;
+	border-bottom: 1px solid #fefefe;
+}
+
+footer.site-footer .footer-block {
+	margin-top: 20px;
+	width: 16.6%;
+	float: left;
+}
+
+
+footer.site-footer .interseroh {
+	padding-top: 30px;
+	text-align: center;
+}
+
+footer.site-footer .interseroh img {
+	max-width: 175px;
+}
+
+footer.site-footer .trusted-shops {
+	width: 12.5%;
+	text-align: right;
+}
+
+footer.site-footer .trusted-shops img {
+	max-width: 75px;
+}
