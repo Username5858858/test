@@ -23371,9 +23371,9 @@
 }
 
 #header1 img:not(.tinymce-editor-image) {
-	width: 100%;
+	width: auto;
 	height: auto;
-	display: block;
+	display: inline-block;
 }
 
 #header1 .duties img {
