@@ -29,6 +29,11 @@
 #header1 a {
 	background-color: transparent;
 }
+#header1 a {
+    display: inline-block;
+    color: #d9d9d9;
+    text-decoration: none;
+}
 
 #header1 a:active, #header1 a:hover {
 	outline: 0;
