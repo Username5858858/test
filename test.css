@@ -24078,212 +24078,212 @@
 	background: url(https://www.lizenzero.de/themes/Frontend/Lizenzero/frontend/_public/src/img/section-light-grey-paper.png) center top no-repeat;
 }
 
-#header1 section[class*=section-].section-ci-blue {
+section[class*=section-].section-ci-blue {
 	background: #009dd3;
 	color: #fefefe;
 }
 
-#header1 section[class*=section-].section-ci-blue:after {
+section[class*=section-].section-ci-blue:after {
 	height: 93px;
 }
 
-#header1 section[class*=section-].section-ci-blue.visible:after {
+section[class*=section-].section-ci-blue.visible:after {
 	background: url(https://www.lizenzero.de/themes/Frontend/Lizenzero/frontend/_public/src/img/section-ci-blue.webp) center top no-repeat;
 }
 
-#header1 .noWEBP section[class*=section-].section-ci-blue.visible:after {
+.noWEBP section[class*=section-].section-ci-blue.visible:after {
 	background: url(https://www.lizenzero.de/themes/Frontend/Lizenzero/frontend/_public/src/img/section-ci-blue.png) center top no-repeat;
 }
 
-#header1 section[class*=section-].section-ci-blue h1, #header1 section[class*=section-].section-ci-blue h2, #header1 section[class*=section-].section-ci-blue h3, #header1 section[class*=section-].section-ci-blue p, #header1 section[class*=section-].section-ci-blue a {
+section[class*=section-].section-ci-blue h1, section[class*=section-].section-ci-blue h2, section[class*=section-].section-ci-blue h3, section[class*=section-].section-ci-blue p, section[class*=section-].section-ci-blue a {
 	color: #fefefe;
 }
 
-#header1 section[class*=section-].section-ci-blue h1:after, #header1 section[class*=section-].section-ci-blue h2:after {
+section[class*=section-].section-ci-blue h1:after, section[class*=section-].section-ci-blue h2:after {
 	background: #fefefe;
 }
 
-#header1 section[class*=section-].section-light-grey-pattern {
+section[class*=section-].section-light-grey-pattern {
 	background: #f3f3f3;
 	padding: 80px 0 15px;
 }
 
-#header1 section[class*=section-].section-light-grey-pattern:after {
+section[class*=section-].section-light-grey-pattern:after {
 	height: 586px;
 }
 
-#header1 section[class*=section-].section-light-grey-pattern.visible {
+section[class*=section-].section-light-grey-pattern.visible {
 	background: #f3f3f3 url(https://www.lizenzero.de/themes/Frontend/Lizenzero/frontend/_public/src/img/section-light-grey-pattern-bg.webp) center top repeat;
 }
 
-#header1 .noWEBP section[class*=section-].section-light-grey-pattern.visible {
+.noWEBP section[class*=section-].section-light-grey-pattern.visible {
 	background: #f3f3f3 url(https://www.lizenzero.de/themes/Frontend/Lizenzero/frontend/_public/src/img/section-light-grey-pattern-bg.png) center top repeat;
 }
 
-#header1 section[class*=section-].section-light-grey-pattern.visible:after {
+section[class*=section-].section-light-grey-pattern.visible:after {
 	background: url(https://www.lizenzero.de/themes/Frontend/Lizenzero/frontend/_public/src/img/section-light-grey-pattern.webp) center bottom no-repeat;
 }
 
-#header1 .noWEBP section[class*=section-].section-light-grey-pattern.visible:after {
+.noWEBP section[class*=section-].section-light-grey-pattern.visible:after {
 	background: url(https://www.lizenzero.de/themes/Frontend/Lizenzero/frontend/_public/src/img/section-light-grey-pattern.png) center bottom no-repeat;
 }
 
-#header1 section[class*=section-].section-light-blue-pattern {
+section[class*=section-].section-light-blue-pattern {
 	background: #c6e2f3;
 }
 
-#header1 section[class*=section-].section-light-blue-pattern:after {
+section[class*=section-].section-light-blue-pattern:after {
 	height: 586px;
 }
 
-#header1 section[class*=section-].section-light-blue-pattern.visible {
+section[class*=section-].section-light-blue-pattern.visible {
 	background: #c6e2f3 url(https://www.lizenzero.de/themes/Frontend/Lizenzero/frontend/_public/src/img/section-light-blue-pattern-bg.webp) center top repeat;
 }
 
-#header1 .noWEBP section[class*=section-].section-light-blue-pattern.visible {
+.noWEBP section[class*=section-].section-light-blue-pattern.visible {
 	background: #c6e2f3 url(https://www.lizenzero.de/themes/Frontend/Lizenzero/frontend/_public/src/img/section-light-blue-pattern-bg.png) center top repeat;
 }
 
-#header1 section[class*=section-].section-light-blue-pattern.visible:after {
+section[class*=section-].section-light-blue-pattern.visible:after {
 	background: url(https://www.lizenzero.de/themes/Frontend/Lizenzero/frontend/_public/src/img/section-light-blue-pattern.webp) center bottom no-repeat;
 }
 
-#header1 .noWEBP section[class*=section-].section-light-blue-pattern.visible:after {
+.noWEBP section[class*=section-].section-light-blue-pattern.visible:after {
 	background: url(https://www.lizenzero.de/themes/Frontend/Lizenzero/frontend/_public/src/img/section-light-blue-pattern.png) center bottom no-repeat;
 }
 
-#header1 section[class*=section-].section-light-blue {
+section[class*=section-].section-light-blue {
 	background: #c6e2f3;
 }
 
-#header1 section[class*=section-].section-light-blue:after {
+section[class*=section-].section-light-blue:after {
 	height: 422px;
 }
 
-#header1 section[class*=section-].section-light-blue.visible {
+section[class*=section-].section-light-blue.visible {
 	background: #fff url(https://www.lizenzero.de/themes/Frontend/Lizenzero/frontend/_public/src/img/section-light-blue-bg.webp) center top no-repeat;
 }
 
-#header1 .noWEBP section[class*=section-].section-light-blue.visible {
+.noWEBP section[class*=section-].section-light-blue.visible {
 	background: #fff url(https://www.lizenzero.de/themes/Frontend/Lizenzero/frontend/_public/src/img/section-light-blue-bg.png) center top no-repeat;
 }
 
-#header1 section[class*=section-].section-light-blue.visible:after {
+section[class*=section-].section-light-blue.visible:after {
 	background: url(https://www.lizenzero.de/themes/Frontend/Lizenzero/frontend/_public/src/img/section-white.webp) center top no-repeat;
 }
 
-#header1 .noWEBP section[class*=section-].section-light-blue.visible:after {
+.noWEBP section[class*=section-].section-light-blue.visible:after {
 	background: url(https://www.lizenzero.de/themes/Frontend/Lizenzero/frontend/_public/src/img/section-white.png) center top no-repeat;
 }
 
-#header1 section[class*=section-].section-light-blue-paper {
+section[class*=section-].section-light-blue-paper {
 	background: #c6e2f3;
 }
 
-#header1 section[class*=section-].section-light-blue-paper:after {
+section[class*=section-].section-light-blue-paper:after {
 	height: 500px;
 }
 
-#header1 section[class*=section-].section-light-blue-paper.visible {
+section[class*=section-].section-light-blue-paper.visible {
 	background: #fff url(https://www.lizenzero.de/themes/Frontend/Lizenzero/frontend/_public/src/img/section-light-blue-bg.webp) center top no-repeat;
 }
 
-#header1 .noWEBP section[class*=section-].section-light-blue-paper.visible {
+.noWEBP section[class*=section-].section-light-blue-paper.visible {
 	background: #fff url(https://www.lizenzero.de/themes/Frontend/Lizenzero/frontend/_public/src/img/section-light-blue-bg.png) center top no-repeat;
 }
 
-#header1 section[class*=section-].section-light-blue-paper.visible:after {
+section[class*=section-].section-light-blue-paper.visible:after {
 	background: url(https://www.lizenzero.de/themes/Frontend/Lizenzero/frontend/_public/src/img/section-light-blue-paper.webp) center top no-repeat;
 }
 
-#header1 .noWEBP section[class*=section-].section-light-blue-paper.visible:after {
+.noWEBP section[class*=section-].section-light-blue-paper.visible:after {
 	background: url(https://www.lizenzero.de/themes/Frontend/Lizenzero/frontend/_public/src/img/section-light-blue-paper.png) center top no-repeat;
 }
 
-#header1 .site-main > section[class*=section-]:first-child, #header1 .emotion--wrapper:first-child section[class*=section-] {
+.site-main > section[class*=section-]:first-child, #header1 .emotion--wrapper:first-child section[class*=section-] {
 	padding: 80px 0 30px !important;
 }
 
-#header1 .is--ctl-index .site-main > section[class*=section-]:first-child, #header1 .is--ctl-index .emotion--wrapper:first-child section[class*=section-] {
+.is--ctl-index .site-main > section[class*=section-]:first-child, #header1 .is--ctl-index .emotion--wrapper:first-child section[class*=section-] {
 	padding: 35px 0 30px !important;
 }
 
-#header1 section[class*=section-] .hero + .content-container {
+section[class*=section-] .hero + .content-container {
 	min-height: 310px;
 }
 
 @media screen and (min-width: 400px) {
-	#header1 section[class*=section-] .hero + .content-container {
+	section[class*=section-] .hero + .content-container {
 		min-height: 390px;
 	}
 }
 
 @media screen and (min-width: 30em) {
-	#header1 section[class*=section-] .hero + .content-container {
+	section[class*=section-] .hero + .content-container {
 		min-height: 360px;
 	}
 }
 
 @media screen and (min-width: 48em) {
-	#header1 section[class*=section-] {
+	section[class*=section-] {
 		padding: 130px 0 60px;
 	}
 
-	#header1 .site-main > section[class*=section-]:first-child, #header1 .emotion--wrapper:first-child section[class*=section-] {
+	.site-main > section[class*=section-]:first-child, #header1 .emotion--wrapper:first-child section[class*=section-] {
 		padding: 110px 0 80px !important;
 	}
 
-	#header1 section[class*=section-].section-light-grey-paper {
+	section[class*=section-].section-light-grey-paper {
 		padding: 130px 0 120px;
 	}
 
-	#header1 section[class*=section-].section-light-grey-pattern {
+	section[class*=section-].section-light-grey-pattern {
 		padding: 100px 0;
 	}
 
-	#header1 section[class*=section-].section-light-blue-paper {
+	section[class*=section-].section-light-blue-paper {
 		padding-bottom: 80px;
 	}
 
-	#header1 section[class*=section-] .hero + .content-container {
+	section[class*=section-] .hero + .content-container {
 		min-height: 450px;
 	}
 }
 
 @media screen and (min-width: 64em) {
-	#header1 .site-main > section[class*=section-]:first-child, #header1 .emotion--wrapper:first-child section[class*=section-] {
+	.site-main > section[class*=section-]:first-child, .emotion--wrapper:first-child section[class*=section-] {
 		padding: 80px 0 !important;
 	}
 
-	#header1 .is--ctl-index .site-main > section[class*=section-]:first-child, #header1 .is--ctl-index .emotion--wrapper:first-child section[class*=section-] {
+	.is--ctl-index .site-main > section[class*=section-]:first-child, .is--ctl-index .emotion--wrapper:first-child section[class*=section-] {
 		padding: 65px 0 80px !important;
 	}
 
-	#header1 section[class*=section-] .hero + .content-container {
+	section[class*=section-] .hero + .content-container {
 		min-height: 480px;
 	}
 }
 
 @media screen and (min-width: 1100px) {
-	#header1 section[class*=section-] .hero + .content-container {
+	section[class*=section-] .hero + .content-container {
 		min-height: 580px;
 	}
 }
 
 @media screen and (min-width: 78.75em) {
-	#header1 section[class*=section-] .hero + .content-container {
+	section[class*=section-] .hero + .content-container {
 		min-height: 630px;
 	}
 }
 
 @media screen and (min-width: 1300px) {
-	#header1 section[class*=section-] .hero + .content-container {
+	section[class*=section-] .hero + .content-container {
 		min-height: 690px;
 	}
 }
 
 @media screen and (min-width: 1400px) {
-	#header1 section[class*=section-] .hero + .content-container {
+	section[class*=section-] .hero + .content-container {
 		min-height: 720px;
 	}
 }
