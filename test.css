@@ -32387,7 +32387,7 @@ footer.site-footer .trusted-shops {
 }
 
 footer.site-footer .trusted-shops img {
-	max-width: 75px;
+	max-width: 75px !important;
 }
 @media screen and (max-width: 30em) {
 	footer.site-footer {
