@@ -32323,11 +32323,11 @@ header .close-icon span:nth-child(2) {
 	}
 }
 
-footer.site-footer.visible {
+footer.site-footer {
 	background: #464646 url(https://www.lizenzero.de/themes/Frontend/Lizenzero/frontend/_public/src/img/footer-bg.webp) center top no-repeat;
 }
 
-footer.site-footer.visible {
+footer.site-footer {
 	background: #464646 url(https://www.lizenzero.de/themes/Frontend/Lizenzero/frontend/_public/src/img/footer-bg.jpg) center top no-repeat;
 }
 
