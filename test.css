@@ -24291,8 +24291,6 @@
 	position: relative;
 	z-index: 100;
 	width: 100%;
-	max-width: 1920px;
-	max-width: 120rem;
 	min-height: 50px;
 	min-height: 3.125rem;
 	background: #fefefe;
