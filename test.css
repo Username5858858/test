@@ -31961,8 +31961,6 @@ header {
 	position: relative;
 	z-index: 100;
 	width: 100%;
-	max-width: 1920px;
-	max-width: 120rem;
 	min-height: 50px;
 	min-height: 3.125rem;
 	background: #fefefe;
@@ -32414,7 +32412,7 @@ footer.site-footer .trusted-shops img {
 
 	footer.site-footer .payment {
 		padding: 20px 0;
-		width: 100%;
+		width: 100% !important;
 		border-top: 1px solid #6a6565;
 		border-bottom: 1px solid #6a6565;
 	}
