@@ -32364,11 +32364,13 @@ footer.site-footer .logo-container:after {
 }
 
 footer.site-footer .footer-block {
-	margin-top: 20px;
+	margin-top: 20px !important;
 	width: 16.6%;
 	float: left;
 }
-
+footer.site-footer .footer-block.payment {
+	width: 36.8%;
+}
 
 footer.site-footer .interseroh {
 	padding-top: 30px;
